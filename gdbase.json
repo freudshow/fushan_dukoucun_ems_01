@@ -1,0 +1,114 @@
+{
+  "GetDataBase_Pad": {
+    "PeriodicPollingInterval_ms": 50,
+    "ContinueCheckData": 1,
+    "topic_notify_event": 1,
+    "topic_notify_spont": 1,
+    "topic_set_request_soe": 1,
+    "EnableFrozenMode": 0
+  },
+  "GetDataBase_devListCount": 2,
+  "GetDataBase_devlist": [
+    {
+      "devNo": 0,
+      "linkNo": 4,
+      "port": "1",
+      "addr": "1",
+      "model": "ADC",
+      "desc": "jiao liu cai ji",
+      "datacount": 9,
+      "appname": "appjc",
+      "data": [
+        {
+          "RtdbNo": 161,
+          "Desc": "设备[0]-1#变压器A相日合格率",
+          "DataType": 1,
+          "ModeName": "PhVPassD_phsA",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 162,
+          "Desc": "设备[0]-1#变压器A相日越上限时间",
+          "DataType": 1,
+          "ModeName": "PTOV_lim_OpTmmsD_phsA",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 163,
+          "Desc": "设备[0]-1#变压器A相日越下限时间",
+          "DataType": 1,
+          "ModeName": "PTUV_lim_OpTmmsD_phsA",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 164,
+          "Desc": "设备[0]-1#变压器B相日合格率",
+          "DataType": 1,
+          "ModeName": "PhVPassD_phsB",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 165,
+          "Desc": "设备[0]-1#变压器B相日越上限时间",
+          "DataType": 1,
+          "ModeName": "PTOV_lim_OpTmmsD_phsB",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 166,
+          "Desc": "设备[0]-1#变压器B相日越下限时间",
+          "DataType": 1,
+          "ModeName": "PTUV_lim_OpTmmsD_phsB",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 167,
+          "Desc": "设备[0]-1#变压器C相日合格率",
+          "DataType": 1,
+          "ModeName": "PhVPassD_phsC",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 168,
+          "Desc": "设备[0]-1#变压器C相日越上限时间",
+          "DataType": 1,
+          "ModeName": "PTOV_lim_OpTmmsD_phsC",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 169,
+          "Desc": "设备[0]-1#变压器C相日越下限时间",
+          "DataType": 1,
+          "ModeName": "PTUV_lim_OpTmmsD_phsC",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 1,
+      "linkNo": 4,
+      "port": "RS485-1",
+      "addr": "10203040506",
+      "model": "MultiMeter",
+      "desc": "MultiMeter",
+      "datacount": 2,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 170,
+          "Desc": "设备[1]-集中器光伏1_有功功率",
+          "DataType": 1,
+          "ModeName": "LTU",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 171,
+          "Desc": "设备[1]-集中器光伏1_发电量",
+          "DataType": 1,
+          "ModeName": "LTU",
+          "DotNo": 0
+        }
+      ]
+    }
+  ]
+}
