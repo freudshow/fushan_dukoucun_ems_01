@@ -7,7 +7,7 @@
     "topic_set_request_soe": 1,
     "EnableFrozenMode": 0
   },
-  "GetDataBase_devListCount": 14,
+  "GetDataBase_devListCount": 15,
   "GetDataBase_devlist": [
     {
       "devNo": 0,
@@ -418,6 +418,95 @@
           "Desc": "设备[13]-集中器光伏13_发电量",
           "DataType": 1,
           "ModeName": "SupWh_total",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 0,
+      "linkNo": 11,
+      "port": "1",
+      "addr": "1",
+      "model": "ADC",
+      "desc": "jiao liu cai ji",
+      "datacount": 11,
+      "appname": "appjc",
+      "data": [
+        {
+          "RtdbNo": 226,
+          "Desc": "设备[0]-1台区断路器A相电流",
+          "DataType": 1,
+          "ModeName": "A_phsA",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 227,
+          "Desc": "设备[0]-1台区断路器B相电流",
+          "DataType": 1,
+          "ModeName": "A_phsB",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 228,
+          "Desc": "设备[0]-1台区断路器C相电流",
+          "DataType": 1,
+          "ModeName": "A_phsC",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 229,
+          "Desc": "设备[0]-1台区断路器总有功功率",
+          "DataType": 1,
+          "ModeName": "TotW",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 230,
+          "Desc": "设备[0]-1台区断路器A相有功功率",
+          "DataType": 1,
+          "ModeName": "PhW_phsA",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 231,
+          "Desc": "设备[0]-1台区断路器B相有功功率",
+          "DataType": 1,
+          "ModeName": "PhW_phsB",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 232,
+          "Desc": "设备[0]-1台区断路器C相有功功率",
+          "DataType": 1,
+          "ModeName": "PhW_phsC",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 233,
+          "Desc": "设备[0]-1台区断路器总无功功率",
+          "DataType": 1,
+          "ModeName": "TotVAr",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 234,
+          "Desc": "设备[0]-1台区断路器A相无功功率",
+          "DataType": 1,
+          "ModeName": "PhVAr_phsA",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 235,
+          "Desc": "设备[0]-1台区断路器B相无功功率",
+          "DataType": 1,
+          "ModeName": "PhVAr_phsB",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 236,
+          "Desc": "设备[0]-1台区断路器C相无功功率",
+          "DataType": 1,
+          "ModeName": "PhVAr_phsC",
           "DotNo": 0
         }
       ]

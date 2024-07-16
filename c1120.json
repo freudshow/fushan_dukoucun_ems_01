@@ -1,0 +1,119 @@
+{
+  "applianceName": "未命名",
+  "TotalYcCount": 11,
+  "TotalYxCount": 0,
+  "TotalYkCount": 0,
+  "TotalDDCount": 0,
+  "dataItem": [
+    {
+      "linkNo": 11,
+      "devNo": 0,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "1台区断路器A相电流",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 11,
+      "devNo": 0,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "1台区断路器B相电流",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 11,
+      "devNo": 0,
+      "RegNo": 2,
+      "type": 1,
+      "Name": "1台区断路器C相电流",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 11,
+      "devNo": 0,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "1台区断路器总有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 11,
+      "devNo": 0,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "1台区断路器A相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 11,
+      "devNo": 0,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "1台区断路器B相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 11,
+      "devNo": 0,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "1台区断路器C相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 11,
+      "devNo": 0,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "1台区断路器总无功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 11,
+      "devNo": 0,
+      "RegNo": 8,
+      "type": 1,
+      "Name": "1台区断路器A相无功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 11,
+      "devNo": 0,
+      "RegNo": 9,
+      "type": 1,
+      "Name": "1台区断路器B相无功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 11,
+      "devNo": 0,
+      "RegNo": 10,
+      "type": 1,
+      "Name": "1台区断路器C相无功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    }
+  ]
+}
