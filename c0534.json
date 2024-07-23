@@ -6,8 +6,8 @@
     "DataChangeReport": 1,
     "MqttIP": "172.17.0.1",
     "MqttPort": "1883",
-    "AppName": "LTUDEV123",
-    "AppDesc": "LTUDEV123"
+    "AppName": "e9361app",
+    "AppDesc": "e9361app"
   },
   "devListCount": 1,
   "devlist": [
