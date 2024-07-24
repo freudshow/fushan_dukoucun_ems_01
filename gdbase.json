@@ -7,7 +7,7 @@
     "topic_set_request_soe": 0,
     "EnableFrozenMode": 0
   },
-  "GetDataBase_devListCount": 15,
+  "GetDataBase_devListCount": 29,
   "GetDataBase_devlist": [
     {
       "devNo": 0,
@@ -507,6 +507,272 @@
           "Desc": "设备[0]-1台区断路器C相无功功率",
           "DataType": 1,
           "ModeName": "PhVAr_phsC",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 1,
+      "linkNo": 11,
+      "port": "RS485-1",
+      "addr": "000571259410",
+      "model": "MultiMeter",
+      "desc": "MultiMeter_000571259410",
+      "datacount": 1,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 237,
+          "Desc": "设备[1]-潘立森A相电压",
+          "DataType": 1,
+          "ModeName": "PhV_phsA",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 2,
+      "linkNo": 11,
+      "port": "RS485-1",
+      "addr": "000644721806",
+      "model": "MultiMeter",
+      "desc": "MultiMeter_000644721806",
+      "datacount": 1,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 238,
+          "Desc": "设备[2]-潘立光A相电压",
+          "DataType": 1,
+          "ModeName": "PhV_phsA",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 3,
+      "linkNo": 11,
+      "port": "RS485-1",
+      "addr": "000770458416",
+      "model": "MultiMeter",
+      "desc": "MultiMeter_000770458416",
+      "datacount": 1,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 239,
+          "Desc": "设备[3]-王传志A相电压",
+          "DataType": 1,
+          "ModeName": "PhV_phsA",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 4,
+      "linkNo": 11,
+      "port": "RS485-1",
+      "addr": "000571251452",
+      "model": "MultiMeter",
+      "desc": "MultiMeter_000571251452",
+      "datacount": 1,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 240,
+          "Desc": "设备[4]-潘启文A相电压",
+          "DataType": 1,
+          "ModeName": "PhV_phsA",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 5,
+      "linkNo": 11,
+      "port": "RS485-1",
+      "addr": "000858291287",
+      "model": "MultiMeter",
+      "desc": "MultiMeter_000858291287",
+      "datacount": 1,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 241,
+          "Desc": "设备[5]-潘业忠A相电压",
+          "DataType": 1,
+          "ModeName": "PhV_phsA",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 6,
+      "linkNo": 11,
+      "port": "RS485-1",
+      "addr": "000858487017",
+      "model": "MultiMeter",
+      "desc": "MultiMeter_000858487017",
+      "datacount": 1,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 242,
+          "Desc": "设备[6]-潘士泉A相电压",
+          "DataType": 1,
+          "ModeName": "PhV_phsA",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 7,
+      "linkNo": 11,
+      "port": "RS485-1",
+      "addr": "000644760614",
+      "model": "MultiMeter",
+      "desc": "MultiMeter_000644760614",
+      "datacount": 1,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 243,
+          "Desc": "设备[7]-潘士云A相电压",
+          "DataType": 1,
+          "ModeName": "PhV_phsA",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 8,
+      "linkNo": 11,
+      "port": "RS485-1",
+      "addr": "000570973201",
+      "model": "MultiMeter",
+      "desc": "MultiMeter_000570973201",
+      "datacount": 1,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 244,
+          "Desc": "设备[8]-潘立森A相电压",
+          "DataType": 1,
+          "ModeName": "PhV_phsA",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 9,
+      "linkNo": 11,
+      "port": "RS485-1",
+      "addr": "000349527871",
+      "model": "MultiMeter",
+      "desc": "MultiMeter_000349527871",
+      "datacount": 1,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 245,
+          "Desc": "设备[9]-潘士忠A相电压",
+          "DataType": 1,
+          "ModeName": "PhV_phsA",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 10,
+      "linkNo": 11,
+      "port": "RS485-1",
+      "addr": "000348771879",
+      "model": "MultiMeter",
+      "desc": "MultiMeter_000348771879",
+      "datacount": 1,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 246,
+          "Desc": "设备[10]-潘立松A相电压",
+          "DataType": 1,
+          "ModeName": "PhV_phsA",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 11,
+      "linkNo": 11,
+      "port": "RS485-1",
+      "addr": "000706064568",
+      "model": "MultiMeter",
+      "desc": "MultiMeter_000706064568",
+      "datacount": 1,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 247,
+          "Desc": "设备[11]-潘春荣A相电压",
+          "DataType": 1,
+          "ModeName": "PhV_phsA",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 12,
+      "linkNo": 11,
+      "port": "RS485-1",
+      "addr": "001004906215",
+      "model": "MultiMeter",
+      "desc": "MultiMeter_001004906215",
+      "datacount": 1,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 248,
+          "Desc": "设备[12]-潘立松A相电压",
+          "DataType": 1,
+          "ModeName": "PhV_phsA",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 13,
+      "linkNo": 11,
+      "port": "RS485-1",
+      "addr": "000571250035",
+      "model": "MultiMeter",
+      "desc": "MultiMeter_000571250035",
+      "datacount": 1,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 249,
+          "Desc": "设备[13]-潘立波A相电压",
+          "DataType": 1,
+          "ModeName": "PhV_phsA",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 14,
+      "linkNo": 11,
+      "port": "RS485-1",
+      "addr": "000570945062",
+      "model": "MultiMeter",
+      "desc": "MultiMeter_000570945062",
+      "datacount": 1,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 250,
+          "Desc": "设备[14]-王传志A相电压",
+          "DataType": 1,
+          "ModeName": "PhV_phsA",
           "DotNo": 0
         }
       ]

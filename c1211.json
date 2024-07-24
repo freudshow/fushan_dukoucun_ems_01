@@ -1,0 +1,192 @@
+{
+  "Pad": {
+    "TotalYcCount": 14,
+    "TotalYxCount": 0,
+    "TotalYkCount": 0,
+    "TotalDDCount": 0,
+    "TotalParameterCount": 0,
+    "YcRatioEnable": 1,
+    "RecordingYkOpera": 0,
+    "LinkAddr": 1,
+    "SingleORDoubleInit": 0,
+    "LinkAddrLen": 2,
+    "VsqLen": 1,
+    "coTlen": 2,
+    "AsduLen": 2,
+    "InfoAddrLen": 2,
+    "YxType": 1,
+    "YcType": 13,
+    "DdType": 206,
+    "YkType": 45,
+    "T0TimeOut": 30,
+    "T1TimeOut": 30,
+    "T2TimeOut": 12,
+    "T3TimeOut": 20,
+    "k": 12,
+    "w": 8,
+    "baseyear": 2000,
+    "alldatainterval": 0,
+    "allddinterval": 0,
+    "setclockinterval": 0,
+    "testlinkinterval": 0,
+    "encrypt": 0,
+    "sendcos": 1,
+    "BackScan": 0,
+    "ThreadAfterSndDelayms": 100,
+    "ThreadAfterRcvDelayms": 100
+  },
+  "ParaInstruction": "v0.1运用园区",
+  "Para": [
+    {
+      "SN": 0,
+      "Running_info": [],
+      "Actionfixed_info": []
+    }
+  ],
+  "FaultEventSubmission": [],
+  "YCDataItem": [
+    {
+      "No": 0,
+      "Name": "设备[1]-潘立森A相电压",
+      "Unit": null,
+      "Addr": 16385,
+      "Xishu": 1.0,
+      "RealDevNo": 237,
+      "type": 1,
+      "Idx": 0
+    },
+    {
+      "No": 1,
+      "Name": "设备[2]-潘立光A相电压",
+      "Unit": null,
+      "Addr": 16386,
+      "Xishu": 1.0,
+      "RealDevNo": 238,
+      "type": 1,
+      "Idx": 1
+    },
+    {
+      "No": 2,
+      "Name": "设备[3]-王传志A相电压",
+      "Unit": null,
+      "Addr": 16387,
+      "Xishu": 1.0,
+      "RealDevNo": 239,
+      "type": 1,
+      "Idx": 2
+    },
+    {
+      "No": 3,
+      "Name": "设备[4]-潘启文A相电压",
+      "Unit": null,
+      "Addr": 16388,
+      "Xishu": 1.0,
+      "RealDevNo": 240,
+      "type": 1,
+      "Idx": 3
+    },
+    {
+      "No": 4,
+      "Name": "设备[5]-潘业忠A相电压",
+      "Unit": null,
+      "Addr": 16389,
+      "Xishu": 1.0,
+      "RealDevNo": 241,
+      "type": 1,
+      "Idx": 4
+    },
+    {
+      "No": 5,
+      "Name": "设备[6]-潘士泉A相电压",
+      "Unit": null,
+      "Addr": 16390,
+      "Xishu": 1.0,
+      "RealDevNo": 242,
+      "type": 1,
+      "Idx": 5
+    },
+    {
+      "No": 6,
+      "Name": "设备[7]-潘士云A相电压",
+      "Unit": null,
+      "Addr": 16391,
+      "Xishu": 1.0,
+      "RealDevNo": 243,
+      "type": 1,
+      "Idx": 6
+    },
+    {
+      "No": 7,
+      "Name": "设备[8]-潘立森A相电压",
+      "Unit": null,
+      "Addr": 16392,
+      "Xishu": 1.0,
+      "RealDevNo": 244,
+      "type": 1,
+      "Idx": 7
+    },
+    {
+      "No": 8,
+      "Name": "设备[9]-潘士忠A相电压",
+      "Unit": null,
+      "Addr": 16393,
+      "Xishu": 1.0,
+      "RealDevNo": 245,
+      "type": 1,
+      "Idx": 8
+    },
+    {
+      "No": 9,
+      "Name": "设备[10]-潘立松A相电压",
+      "Unit": null,
+      "Addr": 16394,
+      "Xishu": 1.0,
+      "RealDevNo": 246,
+      "type": 1,
+      "Idx": 9
+    },
+    {
+      "No": 10,
+      "Name": "设备[11]-潘春荣A相电压",
+      "Unit": null,
+      "Addr": 16395,
+      "Xishu": 1.0,
+      "RealDevNo": 247,
+      "type": 1,
+      "Idx": 10
+    },
+    {
+      "No": 11,
+      "Name": "设备[12]-潘立松A相电压",
+      "Unit": null,
+      "Addr": 16396,
+      "Xishu": 1.0,
+      "RealDevNo": 248,
+      "type": 1,
+      "Idx": 11
+    },
+    {
+      "No": 12,
+      "Name": "设备[13]-潘立波A相电压",
+      "Unit": null,
+      "Addr": 16397,
+      "Xishu": 1.0,
+      "RealDevNo": 249,
+      "type": 1,
+      "Idx": 12
+    },
+    {
+      "No": 13,
+      "Name": "设备[14]-王传志A相电压",
+      "Unit": null,
+      "Addr": 16398,
+      "Xishu": 1.0,
+      "RealDevNo": 250,
+      "type": 1,
+      "Idx": 13
+    }
+  ],
+  "YXDataItem": [],
+  "YKDataItem": [],
+  "DDDataItem": []
+}
