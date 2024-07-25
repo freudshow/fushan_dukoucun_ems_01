@@ -1,7 +1,7 @@
 {
   "Pad": {
     "TotalYcCount": 14,
-    "TotalYxCount": 0,
+    "TotalYxCount": 2,
     "TotalYkCount": 0,
     "TotalDDCount": 0,
     "TotalParameterCount": 0,
@@ -13,7 +13,7 @@
     "VsqLen": 1,
     "coTlen": 2,
     "AsduLen": 2,
-    "InfoAddrLen": 2,
+    "InfoAddrLen": 3,
     "YxType": 1,
     "YcType": 13,
     "DdType": 206,
@@ -31,7 +31,7 @@
     "testlinkinterval": 0,
     "encrypt": 0,
     "sendcos": 1,
-    "BackScan": 0,
+    "BackScan": 1,
     "ThreadAfterSndDelayms": 100,
     "ThreadAfterRcvDelayms": 100
   },
@@ -186,7 +186,28 @@
       "Idx": 13
     }
   ],
-  "YXDataItem": [],
+  "YXDataItem": [
+    {
+      "No": 0,
+      "Name": "设备[0]-硬遥信1（预留）",
+      "Unit": null,
+      "Addr": 1,
+      "Xishu": 1.0,
+      "RealDevNo": 0,
+      "type": 0,
+      "Idx": 0
+    },
+    {
+      "No": 1,
+      "Name": "设备[0]-硬遥信2（预留）",
+      "Unit": null,
+      "Addr": 2,
+      "Xishu": 1.0,
+      "RealDevNo": 1,
+      "type": 0,
+      "Idx": 1
+    }
+  ],
   "YKDataItem": [],
   "DDDataItem": []
 }
